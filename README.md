@@ -35,8 +35,12 @@ The documentation endpoint provides useful insight on how to use the API, availa
 and you can even test it out with some requests and check the responses received. This is found at
 http://0.0.0.0:8000/documentation/
 
-The submodule hubAPI can be fount at https://github.com/ngonimombeshora/hubAPI for usage without docker. Simply run the command below and is available at http://127.0.0.1:8000/
+## 🤔 No docker?
+
+The submodule hubAPI can be fount at https://github.com/ngonimombeshora/hubAPI for usage without docker. Simply run the command below.
 
 ```sh
 python3 manage.py runserver
 ```
+
+🌟 Available at http://127.0.0.1:8000/
