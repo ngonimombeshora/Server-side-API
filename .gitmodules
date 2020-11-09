@@ -1,0 +1,3 @@
+[submodule "hubAPI"]
+	path = hubAPI
+	url = https://github.com/ngonimombeshora/hubAPI
